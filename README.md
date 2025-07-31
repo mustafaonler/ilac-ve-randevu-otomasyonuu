@@ -69,7 +69,8 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 ## 🖼️ Uygulama Görselleri
 
 ### 📷 Görsel 1
-![Görsel 1](./images/ekran-goruntusu-2025-04-25-145426.png)
+![Görsel 1](./images/Ekran%20görüntüsü%202025-04-25%20145426.png)
+
 
 ### 📷 Görsel 2
 ![Görsel 2](./images/ekran-goruntusu-2025-04-25-145500.png)
