@@ -66,7 +66,23 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 - Bir **Kullanıcı**, birden fazla **Randevu** oluşturabilir (1-N).
 
 ---
+## 🖼️ Uygulama Görselleri
 
+### 🔐 Giriş Ekranı
+![Giriş Ekranı](./images/giris-formu.png)
+
+### 📝 Kayıt Ekranı
+![Kayıt Ekranı](./images/kayit-formu.png)
+
+### 💊 İlaç Ekleme
+![İlaç Ekleme](./images/ilac-ekle.png)
+
+### 📄 İlaç Detayları
+![İlaç Detayları](./images/ilac-detay.png)
+
+### 📅 Randevu Paneli
+![Randevu Paneli](./images/randevu-formu.png)
+****
 ## 💾 Kurulum ve Çalıştırma
 
 ### 📌 Gereksinimler
