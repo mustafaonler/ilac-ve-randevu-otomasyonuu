@@ -76,8 +76,8 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 ![KULLANICI GÜNCELEME](./images/Ekran%20görüntüsü%202025-04-25%20145500.png)  
 **Kullanıcı bilgileri güncelleme ekranı:** Kullanıcı profil bilgilerini değiştirebilir.
 
-### 📷 İLAÇ EKLEME  
-![İLAÇ EKLEME](./images/Ekran%20görüntüsü%202025-04-25%20150023.png)  
+### 📷 İLAÇ EKLEME VE RANDEVU OLUŞTURMA
+![İLAÇ EKLEME VE RANDEVU OLUŞTURMA](./images/Ekran%20görüntüsü%202025-04-25%20150023.png)  
 **İlaç ekleme formu:** Kullanıcı yeni ilaç bilgilerini tarih, fiyat, kullanım amacı ve yan etkileri ile kaydedebilir.
 
 ### 📷 ARAYÜZ  
@@ -92,8 +92,8 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 ![KAYIT EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150522.png)  
 **Kayıt olma ekranı:** Yeni kullanıcıların sisteme kayıt olduğu form.
 
-### 📷 RANDEVU EKRANI 
-![GİRİŞ EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150805.png)  
+### 📷 KULLANICI GİRİŞ EKRANI
+![ KULLANICI GİRİŞ EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150805.png)  
 **Randevu yönetim ekranı:** Kullanıcıların randevu oluşturup, görüntüleyip iptal edebildikleri bölüm.
 
 ---
