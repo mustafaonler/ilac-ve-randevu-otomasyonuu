@@ -78,7 +78,7 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 
 ### 📷 İLAÇ EKLEME VE RANDEVU OLUŞTURMA
 ![İLAÇ EKLEME VE RANDEVU OLUŞTURMA](./images/Ekran%20görüntüsü%202025-04-25%20150023.png)  
-**İlaç ekleme formu:** Kullanıcı yeni ilaç bilgilerini tarih, fiyat, kullanım amacı ve yan etkileri ile kaydedebilir.
+**İlaç ekleme  ve randevu formu:** Kullanıcı yeni ilaç bilgilerini tarih, fiyat, kullanım amacı ve yan etkileri ile kaydedebilir ve aynı zamanda bu ekranda kullanıcı randevu saatlari çakışmalarını  sistem  göz önünde bulundurarak istediği doktor ve bölüme randevu alabilir
 
 ### 📷 ARAYÜZ  
 ![ARAYÜZ](./images/Ekran%20görüntüsü%202025-04-25%20150231.png)  
