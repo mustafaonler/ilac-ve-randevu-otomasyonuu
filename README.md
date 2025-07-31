@@ -66,6 +66,8 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 - Bir **Kullanıcı**, birden fazla **Randevu** oluşturabilir (1-N).
 
 ---
+## 🖼️ Uygulama Görselleri
+
 ### 📷 Görsel 1
 ![Görsel 1](./images/ekran-goruntusu-2025-04-25-145426.png)
 
