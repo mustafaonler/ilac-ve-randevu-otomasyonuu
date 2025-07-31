@@ -68,31 +68,31 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 
 ## 🖼️ Uygulama Görselleri
 
-###  
+###  📷 ANA SAYFA
 ![ANA SAYFA](./images/Ekran%20görüntüsü%202025-04-25%20145426.png)  
 **Ana ekran görünümü:** Kullanıcı giriş yaptıktan sonra karşılaştığı ana panel.
 
-### 📷 Görsel 2  
+### 📷 KULLANICI GÜNCELEME 
 ![KULLANICI GÜNCELEME](./images/Ekran%20görüntüsü%202025-04-25%20145500.png)  
 **Kullanıcı bilgileri güncelleme ekranı:** Kullanıcı profil bilgilerini değiştirebilir.
 
-### 📷 Görsel 3  
+### 📷 İLAÇ EKLEME  
 ![İLAÇ EKLEME](./images/Ekran%20görüntüsü%202025-04-25%20150023.png)  
 **İlaç ekleme formu:** Kullanıcı yeni ilaç bilgilerini tarih, fiyat, kullanım amacı ve yan etkileri ile kaydedebilir.
 
-### 📷 Görsel 4  
+### 📷 ARAYÜZ  
 ![ARAYÜZ](./images/Ekran%20görüntüsü%202025-04-25%20150231.png)  
 **İlaç listesi ve detay görüntüleme:** Kullanıcının eklediği ilaçların listesi ve detayları burada gösterilir.
 
-### 📷 Görsel 5  
+### 📷 GİRİŞ EKRANI 
 ![GİRİŞ EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150458.png)  
 **Giriş ekranı:** Sisteme kullanıcı girişi için kullanılan form.
 
-### 📷 Görsel 6  
+### 📷 KAYIT EKRANI  
 ![KAYIT EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150522.png)  
 **Kayıt olma ekranı:** Yeni kullanıcıların sisteme kayıt olduğu form.
 
-### 📷 Görsel 7  
+### 📷 RANDEVU EKRANI 
 ![RANDEVU EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150805.png)  
 **Randevu yönetim ekranı:** Kullanıcıların randevu oluşturup, görüntüleyip iptal edebildikleri bölüm.
 
