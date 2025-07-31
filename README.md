@@ -68,7 +68,7 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 
 ## 🖼️ Uygulama Görselleri
 
-### 📷 Görsel 1  
+###  
 ![ANA SAYFA](./images/Ekran%20görüntüsü%202025-04-25%20145426.png)  
 **Ana ekran görünümü:** Kullanıcı giriş yaptıktan sonra karşılaştığı ana panel.
 
