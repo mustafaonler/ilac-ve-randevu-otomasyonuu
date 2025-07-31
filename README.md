@@ -68,22 +68,27 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 ---
 ## 🖼️ Uygulama Görselleri
 
-### 🔐 Giriş Ekranı
-![Giriş Ekranı](./images/giris-formu.png)
+### 📷 Görsel 1
+![Görsel 1](./images/ekran-goruntusu-2025-04-25-145426.png)
 
-### 📝 Kayıt Ekranı
-![Kayıt Ekranı](./images/kayit-formu.png)
+### 📷 Görsel 2
+![Görsel 2](./images/ekran-goruntusu-2025-04-25-145500.png)
 
-### 💊 İlaç Ekleme
-![İlaç Ekleme](./images/ilac-ekle.png)
+### 📷 Görsel 3
+![Görsel 3](./images/ekran-goruntusu-2025-04-25-150023.png)
 
-### 📄 İlaç Detayları
-![İlaç Detayları](./images/ilac-detay.png)
+### 📷 Görsel 4
+![Görsel 4](./images/ekran-goruntusu-2025-04-25-150231.png)
 
-### 📅 Randevu Paneli
-![Randevu Paneli](./images/randevu-formu.png)
-****
-## 💾 Kurulum ve Çalıştırma
+### 📷 Görsel 5
+![Görsel 5](./images/ekran-goruntusu-2025-04-25-150458.png)
+
+### 📷 Görsel 6
+![Görsel 6](./images/ekran-goruntusu-2025-04-25-150522.png)
+
+### 📷 Görsel 7
+![Görsel 7](./images/ekran-goruntusu-2025-04-25-150805.png)
+
 
 ### 📌 Gereksinimler
 
