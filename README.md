@@ -93,7 +93,7 @@ Bu otomasyon, bireysel kullanıcıların sağlık bilgilerini dijital olarak yö
 **Kayıt olma ekranı:** Yeni kullanıcıların sisteme kayıt olduğu form.
 
 ### 📷 RANDEVU EKRANI 
-![RANDEVU EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150805.png)  
+![GİRİŞ EKRANI](./images/Ekran%20görüntüsü%202025-04-25%20150805.png)  
 **Randevu yönetim ekranı:** Kullanıcıların randevu oluşturup, görüntüleyip iptal edebildikleri bölüm.
 
 ---
